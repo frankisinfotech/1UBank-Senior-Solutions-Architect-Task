@@ -7,6 +7,9 @@
 
 - Create an environment variable file that points to a backend URL ""
 
+- If you successfully connect to the Backend URL, you should see a message saying
+       "Congratulations!!You have submitted the task!"
+
 - The application should be accessible via an IP address
 
 - share the IP address as submission.
