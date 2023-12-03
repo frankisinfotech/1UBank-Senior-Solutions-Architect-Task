@@ -5,7 +5,7 @@
 
 - Deploy the React application on this repo to Amazon ECS (EC2 or Fargate) 
 
-- Create an environment variable file that points to a backend URL ""
+- Create an environment variable file that points to a backend URL "http://3.218.90.17"
 
 - If you successfully connect to the Backend URL, you should see a message saying
        "Congratulations!!You have submitted the task!"
