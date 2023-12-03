@@ -17,6 +17,6 @@
 Note: Please create a branch on the repo and push changes to the branch.
       Deadline is 48 hours after receival of task.
 
-Kindly reach out if you seek further clarification.
+Kindly reach out to ogonna@istrategytech.com if you seek further clarification.
 
 Good luck!!
