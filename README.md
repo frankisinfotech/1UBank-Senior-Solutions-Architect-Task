@@ -10,9 +10,9 @@
 - If you successfully connect to the Backend URL, you should see a message saying
        "Congratulations!!You have submitted the task!"
 
-- The application should be accessible via an IP address
+- The application should be accessible via an IP address or ALB.
 
-- share the IP address as submission.
+- share either as means of submission.
 
 Note: Please create a branch on the repo and push changes to the branch.
       Deadline is 48 hours after receival of task.
