@@ -123,7 +123,6 @@ resource "aws_security_group" "istrat_sg" {
 }
 }
 
-
 tags = {
   "Name"	= "istrat_SG"
 }
